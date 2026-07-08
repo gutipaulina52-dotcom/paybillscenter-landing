@@ -1,31 +1,19 @@
 # Bills Solutions Center — Landing Page
 
-Professional landing page for Bills Solutions Center, built with Next.js 14, TypeScript, Tailwind CSS, and Framer Motion.
+Professional landing page for Bills Solutions Center.
 
-## 🚀 Deploy to Netlify
+## Tech Stack
+- Next.js 14 (App Router)
+- TypeScript
+- Tailwind CSS
+- Framer Motion
 
-1. Push this folder to your GitHub repository `paybillscenter-landing`
-2. Connect the repo to Netlify
-3. Netlify auto-detects Next.js — no extra config needed
-4. Click **Deploy**
+## Deploy on Netlify
+1. Connect this repo to Netlify
+2. Build command: `npm run build`
+3. Publish directory: `.next`
+4. Plugin: `@netlify/plugin-nextjs` (auto-installed via netlify.toml)
 
-## 🛠 Local Development
-
-```bash
-npm install
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000)
-
-## 📦 Build
-
-```bash
-npm run build
-npm start
-```
-
-## 📞 Contact
-
-- WhatsApp: +1 (689) 298-5282
-- Email: billserviceamerican@gmail.com
+## Contact
+- Phone: (786) 997-2761
+- Email: billssolutionscenter@gmail.com
